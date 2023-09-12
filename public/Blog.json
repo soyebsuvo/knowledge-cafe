@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover_Image": "https://i.ibb.co/fvr6vxH/1.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/QvpCXMd/boy1.png",
+      "posted_date": "2023-09-12",
+      "reading_time": 10,
+      "title": "Exploring the World of AI",
+      "hashtags": ["#example1", "#tag1"]
+    },
+    {
+      "id": 2,
+      "cover_Image": "https://i.ibb.co/3R5W364/2.png",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/BtXzYpd/boy2.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 8,
+      "title": "The Art of Programming",
+      "hashtags": ["#anotherExample", "#tag2"]
+    },
+    {
+      "id": 3,
+      "cover_Image": "https://i.ibb.co/GHr7BsD/3.png",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/YcQ5K2P/girl1.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 12,
+      "title": "Cooking Adventures",
+      "hashtags": ["#yetAnotherExample", "#tag3"]
+    },
+    {
+      "id": 4,
+      "cover_Image": "https://i.ibb.co/8DvFc1h/4.jpg",
+      "author": "Bob Wilson",
+      "author_img": "https://i.ibb.co/ssgB0LR/girl2.jpg",
+      "posted_date": "2023-09-06",
+      "reading_time": 15,
+      "title": "Traveling the World",
+      "hashtags": ["#fourthExample", "#tag4"]
+    }
+  ]
+  
